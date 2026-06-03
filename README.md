@@ -76,16 +76,3 @@ lsm-tree-simulation/
     ├── App.jsx
     └── main.jsx
 ```
-
-## Pushing to GitHub
-
-```bash
-git init
-git add .
-git commit -m "Add LSM tree simulation"
-git branch -M main
-git remote add origin <your-github-repo-url>
-git push -u origin main
-```
-
-Replace `<your-github-repo-url>` with your repository URL.
